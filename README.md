@@ -3,10 +3,6 @@
 
 Cycle_Safe is a real-time cyclist monitoring system designed to enhance city development decision-making by evaluating the need for cycling routes. This web application, built with a React frontend and a Flask backend, supports Vision Zero by promoting safe, cyclist-friendly infrastructure.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
 
 ## Getting Started
 
